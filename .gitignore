@@ -1,0 +1,16 @@
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.db
+
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
+
+SDL2-devel-*/
+SDL2_image-*/
+SDL2_ttf-*/
